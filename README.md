@@ -1,5 +1,4 @@
-
-	      ____                  __          ____
+____                  __          ____
 	     / __ \____  _____ ____/ /_  ____  / / /_
 	    / /_/ / __ `/ ___/ ___/ __ \/ __ \/ / __/
 	   / ____/ /_/ (__  |__  ) /_/ / /_/ / / /_
@@ -27,6 +26,9 @@ GNU Affero General Public License for more details.
 
 [Affero General Public License v3](http://www.gnu.org/licenses/agpl-3.0.html)
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstripthis%2Fpassbolt_api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstripthis%2Fpassbolt_api?ref=badge_large)
+
 ## About Passbolt
 
 Passbolt is an open source password manager for teams. It allows you to
@@ -49,6 +51,7 @@ Find out more: [https://www.passbolt.com](https://www.passbolt.com "Passbolt Hom
 [![Login](https://raw.githubusercontent.com/passbolt/passbolt_styleguide/master/src/img/screenshots/teaser-screenshot-login-275.png)](https://raw.githubusercontent.com/passbolt/passbolt_styleguide/master/src/img/screenshots/teaser-screenshot-login.png)
 [![Browse passwords](https://raw.githubusercontent.com/passbolt/passbolt_styleguide/master/src/img/screenshots/teaser-screenshot4-275.png)](https://raw.githubusercontent.com/passbolt/passbolt_styleguide/master/src/img/screenshots/teaser-screenshot4.png)
 [![Share passwords](https://raw.githubusercontent.com/passbolt/passbolt_styleguide/master/src/img/screenshots/teaser-screenshot-share-275.png)](https://raw.githubusercontent.com/passbolt/passbolt_styleguide/master/src/img/screenshots/teaser-screenshot-share.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstripthis%2Fpassbolt_api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstripthis%2Fpassbolt_api?ref=badge_shield)
 
 
 ### Trying out passbolt
